@@ -1,12 +1,12 @@
-# 🚀 SalesShortcut - AI-Powered SDR Agent System
+# SalesShortcut - AI-Powered SDR Agent System
 
 A comprehensive AI-powered Sales Development Representative (SDR) system built with multi-agent architecture for automated lead generation, research, proposal generation, and outreach.
 
-## 🎯 Project Overview
+## Project Overview
 
 SalesShortcut is a sales automation and engagement platform that **finds, creates, and converts leads** through intelligent AI agents. The system automatically discovers potential business leads, researches their needs, creates personalized proposals, and manages outreach campaigns including phone calls and email communication.
 
-## 🏗️ Architecture
+## Architecture
 
 ![Architecture Diagram](./assets/architecture.svg)
 
